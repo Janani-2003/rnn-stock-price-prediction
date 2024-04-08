@@ -109,6 +109,8 @@ plt.show()
 
 ## Output
 
+![image](https://github.com/Janani-2003/rnn-stock-price-prediction/assets/94288340/9f76080f-eb0e-4186-b728-f1b2bbf7502b)
+
 ### True Stock Price, Predicted Stock Price vs time
 
 ![image](https://github.com/Janani-2003/rnn-stock-price-prediction/assets/94288340/5fcbc321-d765-4929-b4f7-d7e3d7c112a1)
